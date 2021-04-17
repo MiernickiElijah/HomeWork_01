@@ -9,7 +9,7 @@ Changes include multiple HTML semantics and css compacting.
 
 Screenshot of webpage:
 ```md
-![alt text](/images\screenshot.png)
+![alt text](/images/screenshot.png)
 ```
 
 Resources Used:
