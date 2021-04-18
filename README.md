@@ -12,9 +12,7 @@ Changes include multiple HTML semantics and css compacting.
  -added text info for clarity
 
 Screenshot of webpage:
-```md
 ![splash page image](/images/screenshot.png)
-```
 
 Resources Used:
 
