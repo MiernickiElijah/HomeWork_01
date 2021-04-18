@@ -6,6 +6,10 @@
 Refactoring was done to meet accesibility criteria for marketing agency, and clarity for reading. 
 
 Changes include multiple HTML semantics and css compacting. 
+ -header
+ -div changes to reflect appropriate HTML semantics
+ -css flow changes for ease of use
+ -added text info for clarity
 
 Screenshot of webpage:
 ```md
